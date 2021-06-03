@@ -19,7 +19,7 @@
         <dependencies>
             <dependency>
                 <groupId>online.store.com</groupId>
-                <artifactId>frontend</artifactId>
+                <artifactId>frontend-module</artifactId>
                 <version>0.0.1-SNAPSHOT-module</version>
             </dependency>
             <dependency>
